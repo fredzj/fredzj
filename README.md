@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## Skills
 
-- **Programming Languages:** see https://www.onyxcode.nl/
-- **Frameworks and Tools:** see https://www.onyxcode.nl/
-- **Other Skills:** see https://www.onyxcode.nl/
+- **Programming Languages:** see [OnyxCode](https://www.onyxcode.nl/)
+- **Frameworks and Tools:** see [OnyxCode](https://www.onyxcode.nl/)
+- **Other Skills:** see [OnyxCode](https://www.onyxcode.nl/)
 
 ## Projects
 
