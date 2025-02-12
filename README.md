@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## About Me
 
-- **Current Role:** Developer at OnyxCode
+- **Current Role:** Senior Developer at OnyxCode
 - **Location:** Hoofddorp, North Holland, Netherlands
 - **Education:** Switched from Astronomy at Leiden University to Programming/Systems Analysis at Ordina
 
