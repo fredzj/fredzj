@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## About Me
 
-- **Current Role:** Senior Developer at OnyxCode
+- **Current Roles:** Senior Developer at OnyxCode, AI Training Expert at Outlier
 - **Location:** Hoofddorp, North Holland, Netherlands
 - **Education:** Switched from Astronomy at Leiden University to Programming/Systems Analysis at Ordina
 
